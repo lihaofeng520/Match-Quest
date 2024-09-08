@@ -80,12 +80,12 @@ socks5://69.69.69.69:8000
 
 2. Clone this repository
    ```shell
-   git clone https://github.com/akasakaid/matchquesttod.git
+   git clone https://github.com/Naam-M/Match-Quest.git
    ```
 
 3. goto matchquesttod directory
    ```
-   cd matchquesttod
+   cd Match-Quest
    ```
 
 4. install the require library
@@ -116,13 +116,13 @@ socks5://69.69.69.69:8000
 2. Clone this repository
    
    ```shell
-   git clone https://github.com/akasakaid/matchquesttod.git
+   git clone https://github.com/Naam-M/Match-Quest.git
    ```
 
 3. goto matchquesttod directory
 
    ```shell
-   cd matchquesttod
+   cd Match-Quest
    ```
 
 4. Install the require library
@@ -154,12 +154,12 @@ socks5://69.69.69.69:8000
 
 2. Clone this repository
    ```shell
-   git clone https://github.com/akasakaid/matchquesttod.git
+   git clone https://github.com/Naam-M/Match-Quest.git
    ```
 
 3. goto matchquesttod directory
    ```
-   cd matchquesttod
+   cd Match-Quest
    ```
 
 4. install the require library
