@@ -394,11 +394,18 @@ async def countdown(t):
 
 async def main():
     banner = f"""
-{magenta}┏┓┳┓┏┓  ┏┓    •      {white}BlumTod Auto Claim for {yellow}matchquest
-{magenta}┗┓┃┃┗┓  ┃┃┏┓┏┓┓┏┓┏╋  {green}Author : {white}AkasakaID
-{magenta}┗┛┻┛┗┛  ┣┛┛ ┗┛┃┗ ┗┗  {white}Github : {green}https://github.com/AkasakaID
-{magenta}              ┛      {green}Note : {white}Every Action Has a Consequence
-        """
+{cyan}  ________  __                 __  __               
+{cyan} /_  __/ / / /__  ____  _____  / /_/ /__  ____  _____
+{cyan}  / / / / / / _ \/ __ \/ ___/ / __/ / _ \/ __ \/ ___/
+{cyan} / / / / / /  __/ /_/ / /__  / /_/ /  __/ / / / /__  
+{cyan}/_/ /_/ /_/\___/\____/\___/  \__/_/\___/_/ /_/\___/  
+{cyan}                                                  
+{white}   Auto Claim Tool for {yellow}matchquest
+{green}   Author : {white} NaaM
+{green}   Github : {white}https://github.com/Naam-M
+{green}   Note   : {white} Galau
+"""
+
     if not await aiofiles.ospath.exists(data_file):
         async with aiofiles.open(data_file, "a") as w:
             await w.write("")
