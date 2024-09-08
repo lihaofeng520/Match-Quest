@@ -28,6 +28,7 @@ magenta = Fore.LIGHTMAGENTA_EX
 white = Fore.LIGHTWHITE_EX
 black = Fore.LIGHTBLACK_EX
 reset = Style.RESET_ALL
+cyan = Fore.LIGHTCYAN_EX
 line = white + "~" * 50
 
 
